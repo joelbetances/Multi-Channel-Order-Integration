@@ -1,0 +1,27 @@
+{
+  "salesforce": {
+    "api_key": "your_salesforce_api_key",
+    "api_url": "https://your_salesforce_instance_url"
+  },
+  "truecommerce": {
+    "api_key": "your_truecommerce_api_key",
+    "api_url": "https://your_truecommerce_instance_url"
+  },
+  "jitterbit": {
+    "api_key": "your_jitterbit_api_key",
+    "api_url": "https://your_jitterbit_instance_url"
+  },
+  "cloud4j": {
+    "api_key": "your_cloud4j_api_key",
+    "api_url": "https://your_cloud4j_instance_url"
+  },
+  "sftp_server": {
+    "host": "your_sftp_server_host",
+    "username": "your_sftp_username",
+    "password": "your_sftp_password"
+  },
+  "quickbooks": {
+    "api_key": "your_quickbooks_api_key",
+    "api_url": "https://your_quickbooks_instance_url"
+  }
+}
